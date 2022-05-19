@@ -1,0 +1,44 @@
+body 
+{
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+
+h1
+{
+    color: grey;
+    font-family: Verdana;
+}
+
+table td
+{
+    padding-bottom: 10px;
+}
+
+.labels
+{
+    width: 120px;
+}
+
+.maindiv
+{
+    background-color: white;
+    align-items: center;
+    color: black;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contents
+{
+    margin-left: 80px;
+}
+
+.highlight
+{
+    background-color: #ffff00;
+}
